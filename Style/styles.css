@@ -275,6 +275,7 @@ h3 {
     height: 35rem;
     padding-top: 4rem;
     padding-bottom: 1rem;
+    display: flex;
     margin: 0 auto;
 }
 
